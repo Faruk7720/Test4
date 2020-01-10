@@ -1,0 +1,32 @@
+Browser github.com
+Sign in my account
+Create a reprository
+Back to my gitbash
+Create a folder in the Desktop Farzeen2 by using mkdir command
+I entered Farzeen2 folder that is in the desktop by using cd command. Command mean change directory, I know directory mean folder.
+Then i create a test file name test.txt over the farzeen2 folder by using touch spach test.txt command.
+
+I have to write somethong into the file. So i have to use vi command t0 go vi
+edior. So i need use vi spach test.txt command.
+
+I am happy to take learn from Rezaul bhai.
+
+esc+shift+:+wq enter.[ This is save and exit command]
+
+9.Now i have to upload test.txt file including folder to my git reprository.
+    # This is the steps:
+    1. git spach init
+    2.git spach add-A
+    3.git spach commit-m"first test"
+    4.git spach remote spach add spach origin(paste the repository location
+)
+5.git spach push spach -u spach origin spach master
+
+
+Learn: We can bring those commands from github website/server from the specific repository.
+.........................................................
+
+pwd=presnt location from system.
+cd= change directory
+touch= This is a UNIX command but use it gitbash when we want to create a file.
+
